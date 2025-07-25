@@ -1,11 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/b6613c7b-097c-4f3f-90b3-8aac856f7cfb)
 
-
-<h1 align="center">Açoriana Corretora de Câmbio</h1>
-
-<p align="center">
-<strong>Soluções de Excelência para Negócios Globais</strong>
-</p>
+<hr/>
 
 <p align="center">
 <a href="https://www.acorianacorretora.com.br/" target="_blank">Website</a> •
